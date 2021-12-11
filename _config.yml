@@ -2,7 +2,6 @@ title: Tooth Fairy Flying Forecast
 author: Fairy Mother
 description: > # this means to ignore newlines until "baseurl:"
   Will the tooth fairy be flying?
-
-# social links
+theme: minima
 
 show_excerpts: true # set to false to remove excerpts on the homepage
